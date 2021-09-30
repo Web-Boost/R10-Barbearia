@@ -1,4 +1,5 @@
+from django.http.response import HttpResponse
 from django.shortcuts import render
 
 def index(request):
-    render(request, 'index.html')
+    return render(request, '../templates/index.html')
