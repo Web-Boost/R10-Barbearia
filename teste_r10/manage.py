@@ -1,4 +1,4 @@
-#!/usr/bin/env python a
+#!/usr/bin/env python a putaria
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
